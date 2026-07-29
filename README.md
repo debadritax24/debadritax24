@@ -107,9 +107,9 @@ Inspired by **Spider-Gwen**, I enjoy balancing creativity with engineering, craf
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.shion.dev/api?username=debagoswami83-hashtag&hide_border=true&bg_color=0D1117&title_color=F8A5C2&text_color=FFFFFF&icon_color=C084FC&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=debadritax24&hide_border=true&bg_color=0D1117&title_color=F8A5C2&text_color=FFFFFF&icon_color=C084FC&show_icons=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=debagoswami83-hashtag&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8A5C2&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=debadritax24&layout=compact&hide_border=true&bg_color=0D1117&title_color=F8A5C2&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br/>
