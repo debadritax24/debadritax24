@@ -101,7 +101,7 @@ Inspired by **Spider-Gwen**, I enjoy balancing creativity with engineering, craf
 
 ## 📈 Gwen-Verse Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debagoswami83-hashtag&bg_color=0d1117&color=F8A5C2&line=C084FC&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debadritax24&bg_color=0d1117&color=F8A5C2&line=C084FC&point=FFFFFF&area=true&hide_border=true" height="280" alt="Activity Graph" />
 
 <br/>
 <br/>
