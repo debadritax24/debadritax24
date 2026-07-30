@@ -116,7 +116,7 @@ Inspired by **Spider-Gwen**, I enjoy balancing creativity with engineering, craf
 <br/>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=debagoswami83-hashtag&hide_border=true&background=0D1117&ring=F8A5C2&fire=C084FC&currStreakLabel=F8A5C2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=debadritax24&hide_border=true&background=0D1117&ring=F8A5C2&fire=C084FC&currStreakLabel=F8A5C2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br/>
